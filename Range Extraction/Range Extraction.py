@@ -1,0 +1,1 @@
+4 kyufromitertoolsimportgroupbychaindefsolutionlsta=for_gingroupbyenumeratelstlambdai_xi_x0-i_x1r=xfor_xingiflenr>2aappendf"r0-r-1"elseaappendrreturn','joinmapstrareplace'['''replace']'''replace' '''
