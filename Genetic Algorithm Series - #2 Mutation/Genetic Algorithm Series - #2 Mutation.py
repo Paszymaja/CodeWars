@@ -1,0 +1,1 @@
+7 kyufromrandomimportrandomdefmutatechromosomepforibaseinenumeratechromosomeifrandom<pifbase=='1'chromosome=chromosome0i+'0'+chromosomei+1elsechromosome=chromosome0i+'1'+chromosomei+1returnchromosome
