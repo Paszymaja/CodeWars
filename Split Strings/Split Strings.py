@@ -1,0 +1,1 @@
+6 kyudefsolutionsiflens%2==1s=s+'_'returnsii+2foriinrange0lens2defsolutionsiflens%2==1s=s+'_'a=sii+2foriinrange0lens2returna
