@@ -1,0 +1,1 @@
+5 kyudefbest_matchgoals1goals2returnmina-b-biforiabinenumeratezipgoals1goals2-1defbest_matchgoals1goals2goals=i-jjforijinzipgoals1goals2_min=mini0foriingoals_max=maxi1foriingoalsifi0==_minreturngoalsindex_min_max
