@@ -1,0 +1,1 @@
+Given a string representing a simple fraction <code>x/y</code>, your function must return a string representing the corresponding <a href="http://en.wikipedia.org/wiki/Fraction_%28mathematics%29#Mixed_numbers" target="_blank">mixed fraction</a> in the following format:
