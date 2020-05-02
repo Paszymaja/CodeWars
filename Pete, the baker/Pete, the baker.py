@@ -1,0 +1,1 @@
+5 kyudefcakesrecipeavailablem=999999999999999foriinrecipeifinotinavailablereturn0elseifm>availablei//recipeim=availablei//recipeireturnm
