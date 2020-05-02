@@ -1,0 +1,1 @@
+6 kyudefreverseseqend=lenseq-1start=0whilestart<endseqstartseqend=seqendseqstartstart+=1end-=1
