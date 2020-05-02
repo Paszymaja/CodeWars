@@ -1,0 +1,1 @@
+6 kyudefsong_decodersongsong=songsplit'WUB'og=foriinsongifi!=''og+=ireturn' 'joinog
