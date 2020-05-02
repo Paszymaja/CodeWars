@@ -1,0 +1,1 @@
+6 kyudefsolutionnumbertotal_sum=0foriinrangenumberifi%3==0ori%5==0total_sum=total_sum+ireturntotal_sum
