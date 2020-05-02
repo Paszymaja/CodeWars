@@ -1,0 +1,1 @@
+6 kyudeffind_itseqres=0foriinseqres=res^ireturnres
