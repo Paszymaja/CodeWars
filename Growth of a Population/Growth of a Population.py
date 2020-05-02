@@ -1,0 +1,1 @@
+7 kyudefnb_yearp0percentaugplib=0whilep0<pp0=p0+p0*percent/100+auglib+=1printlibreturnlib
